@@ -10,3 +10,5 @@ ReactDOM.render(
   </StrictMode>,
   rootElement
 );
+
+console.log("For hacktober");
