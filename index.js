@@ -11,4 +11,4 @@ ReactDOM.render(
   rootElement
 );
 
-console.log("For hacktober");
+console.log("For hacktober fest 2022");
