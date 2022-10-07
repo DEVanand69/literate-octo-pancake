@@ -2,6 +2,7 @@ import React, { useState, forwardRef, createRef } from 'react';
 import { getUniqueId, getXY, join } from './utils';
 
 export const WinItem = forwardRef((props, ref) => {
+	console.log(ref);
 	ref = ref ?? createRef();
 
 	const [borderColors] = useState(
