@@ -4,6 +4,8 @@ import { WinGrid } from './WinGrid';
 import { getUniqueId } from './utils';
 
 export default function App() {
+	console.log('important loggers');
+	
 	return (
 		<>
 			<WinGrid
